@@ -1,0 +1,14 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 1.
+
+Making-a-Difference exercise 02 (01.27) - Test Drive: Body-Mass-Index Calculator.
+
+http://www.nhlbi.nih.gov/guidelines/obesity/BMI/bmicalc.htm
+
+My Height: 184
+Your Weight: 85
+My BMI: 25.1
+
+Formula for further calculations:
+1. Divide your weight in kilograms (kg) by your height in metres (m).
+2. Then divide the answer by your height again to get your BMI

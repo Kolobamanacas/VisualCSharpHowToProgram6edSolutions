@@ -1,0 +1,11 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 1.
+
+Making-a-Difference exercise 04 (01.29) - Gender neutrality.
+
+I could probably create a table of words to be replaced including two columns with original word in the first one and its gender-neutral equivalent in the second. Then I would read the whole paragraph matching first word to every word of the text. When words matching I replace the word from text with the word from the second column of the table. Then I would repeat the process unsing every word in the table.
+
+It is strange question about how my procedure might generate a woperchild word as soon as
+http://www.urbandictionary.com/define.php?term=woperchild
+gives a stright reasoning explanation:
+Woperchild is the politically correct way to say woman. Wo-"man" is not ok because it has man in it. So you say, "wo-person." But you can't say per-"son" because son is too male dominant. So you say per-child.

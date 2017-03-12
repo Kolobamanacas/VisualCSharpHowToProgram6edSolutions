@@ -1,0 +1,9 @@
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\bin\Release\02-10.exe.config
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\bin\Release\02-10.exe
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\bin\Release\02-10.pdb
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\obj\Release\02-10.csprojResolveAssemblyReference.cache
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\obj\Release\_02_10.Form1.resources
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\obj\Release\_02_10.Properties.Resources.resources
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\obj\Release\02-10.csproj.GenerateResource.Cache
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\obj\Release\02-10.exe
+C:\Users\uedda\Desktop\Deitel C# How To Program\Chapter 02\Exercise 10\02-10\obj\Release\02-10.pdb

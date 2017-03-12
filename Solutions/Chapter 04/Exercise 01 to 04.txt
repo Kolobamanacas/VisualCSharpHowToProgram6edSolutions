@@ -1,0 +1,18 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 4.
+
+Exercise 01 (04.05).
+    When used the keyword new creates an object of certain class, which name is placed right after new keyword. Class name is also followed by parenthesis which are used to put parameters in it. We use parameters to set initial values for newly created object. There could be no parameters. Usually the value of newly created object is assigned to the object of the same type created (like a variable but in a bit more complex way) for this purpose. The syntax should be like:
+    ClassName classObjectName = new ClassName(parameter1, parameter2);
+   
+Exercise 02 (04.06).
+    A constructor is a mechanism that allows you to initialize values of class instance variables at the object creation step. Constructor is a method of class but unlike other methods it can't return any value, even void. If no constructor provided by a user, C# provides a default constructor. In situation when the only constructor provided to class is a default constructor, all instance variables get a default values, which are:
+    - 0 (zero) for all numeric variables;
+    - false for logic variables;
+    - null for string variables.
+
+Exercise 03 (04.07).
+    Instance variable is area in computer's memory for holding  information of appropriate type. Instance variable holds information about size of taken memory, type of data it stores, address of that area and the data itself. Instance variables are declared inside of class body, but outside of any class methods. Instance vafiables could also be privat or public and unlike local variables the get default value on the declaration step if no value was provided by user.
+
+Exercise 04 (04.08).
+    For my opinion, the question is inclear. Properties provide more flexible way to get or set values of instant variables than direct assignment. For example a property could check if input data is correct before assignment or perform any other operations if needed. So a property acts like a class method but for certain instance variable. There are also auto-implemented properties and a class provides hidden instance variables for these properties. But no cases when a class could provide a property for an instance variable was discribed in 4th chapter.

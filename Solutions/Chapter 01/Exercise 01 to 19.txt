@@ -1,0 +1,103 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 1.
+
+Exercise 01 (01.07).
+    01. Software.
+    02. Hardware.
+    03. Field.
+    04. Persistent.
+    05. Compiler.
+    06. Class.
+    07. Reuse.
+
+Exercise 02 (01.08).
+    01. UML.
+    02. HTML and HTTP.
+    03. Virtual machine.
+    04. Porting.
+    05. Azure.
+    06. Inheritance.
+
+Exercise 03 (01.09).
+    01. True.
+    02. False. The ASCII itself is a subset of Unicode. Unicode was developed to have posibility to use all languages with a single encoding.
+    03. True.
+    04. True.
+    05. True.
+    06. False. There are two more implementations of C# which are The Mono Project and .Net Core.
+    07. True.
+    08. False. One could run .Net program only on a platform that already has underlying .Net environment developed for this platform.
+    09. True.
+
+Exercise 04 (01.10).
+    The key advantages of interpeters over compilers are faster processing time including less amount of time to analyze the source code and less memory consumption due to dynamic memory management. Interpretator-using programs are also could run on multiple platforms, when compiled programs could only run on a platform it is compiled for. Disadvantage is slower execution time.
+
+Exercise 05 (01.11).
+    async helps you to developing programs for multycore processors in more easy way.
+
+Exercise 06 (01.12).
+    Operating systems are software systems which make using computers more convinient for users, developers and system administrators. They provide services that allow each application to execute safely, efficiently and concurrently with other applications. 
+
+Exercise 07 (01.13).
+    Because cloud computing utilizes computing power of thouthands computers worldwide which is stay unized otherwise. This helps to reduce costs and gives posibility to people share their power to find solution to world's common problems together.
+   
+Exercise 08 (01.14).
+    Hardware: 1. CPU; 3. Input unit.
+    Software: 2. Compiler; 4. A word-processor program; 5. A C# program.
+
+Exercise 09 (01.15).
+    1. True.
+    2. False. High-level languages could be compiled to different machine-languages with different compilers which allow them to run on a different platforms.
+    3. False. Every computer directly understands only its own machine-languages without translation. So if it is appropriate machine-language for the computer it could run without any translation.
+    4. True.
+
+Exercise 10 (01.16).
+    1. W3C - World Wide Web Consortium.
+    2. OOP - Object-oriented Programming.
+    3. CLR - Common Language Runtime.
+    4. MSIL - Microsoft Intermediate Language.
+    5. UML - Unified Modeling Language.
+    6. IDE - Integrated Development Environment.
+
+Exercise 11 (01.17).
+    The benefits of .Net and CLR are possibility to write in any .Net-supported language. They also provide additional security and performance control. Drawbacks are slower managed code execution and lack of multiplatformity stright away.
+
+Exercise 12 (01.18).
+    Advantages of object-oriented approach is code reusing, possibility to use inheritance and possibility to use object-thinking approach familiar to orinary humans.
+
+Exercise 13 (01.19).
+    Well watch is an object itself. It could have attributes like colour, shape or fashion as well as type (as dial or digital). Behaviors could include set time or alram or probably wind them up.
+
+Exercise 14 (01.20).
+    UML helps you visualize program's logic in more illustrative way.
+
+Exercise 15 (01.21).
+    Despite ofdiffetent original aim of creators of ARPANET the possibility to quick interact with each other using e-mail became the main benefit of connecting computers to the net.
+
+Exercise 16 (01.22).
+    Hmmm. I gues it should sound like fast and convenient communication and sharing information of any kind between people.
+
+Exercise 17 (01.23).
+    To permit you to use any .Net-supported language instead of using particular single language.
+
+Exercise 18 (01.24).
+    It contains thouthands of valuable pre-bult classes that have been rested and tuned to maximiza performance.
+
+Exercise 19 (01.25).
+    It is the fact that object-oriented programs are ofren easier to undertand, correct and modify which makes software-development groups much more productive than was possible with earlier techniques.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

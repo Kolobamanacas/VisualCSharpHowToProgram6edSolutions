@@ -1,0 +1,9 @@
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\bin\Release\02-07.exe.config
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\bin\Release\02-07.exe
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\bin\Release\02-07.pdb
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\obj\Release\02-07.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\obj\Release\_02_07.Form1.resources
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\obj\Release\_02_07.Properties.Resources.resources
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\obj\Release\02-07.csproj.GenerateResource.Cache
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\obj\Release\02-07.exe
+C:\YandexDisk\Code\CSharp How To Program\Chapter 02\07\obj\Release\02-07.pdb

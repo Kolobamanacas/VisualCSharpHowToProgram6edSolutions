@@ -1,0 +1,69 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 1.
+
+Making-a-Difference exercise 01 (01.26) - Test Drive: Carbon Footprint Calculator.
+
+terrapass.com
+    Vehicle: 0 lbs CO2e
+    Home energy: 229 lbs CO2e
+    Public transport: 4.570 lbs CO2e
+    Travel (flights): 2.320 lbs CO2e
+    Other: 0 lbs CO2e
+    Total carbon footprint: 7.119 lbs CO2e
+
+carbonfootprint.com
+    Vehicle: 0 metric tons of CO2e
+    Home energy: 0.25 metric tons of CO2e
+    Public transport: 0.10 metric tons of CO2e
+    Travel (flights): 0.62 metric tons of CO2e
+    Other: 0.96 metric tons of CO2e
+    Total carbon footprint: metric tons of CO2e
+
+
+
+Calculation methodology for further exercises (borrowed at https://carbonfund.org/how-we-calculate/).
+
+Electricity:
+Electricity sources emit 1.222 lbs CO2 per kWh (0.0005925 metric tons CO2 per kWh).
+
+Natural Gas:
+There are 0.005 metric tonnes of CO2 per 1 therm of natural gas.
+(CCF means hundreds of cubic feet. Thanks to Michael J. McGuire https://safedrinkingwaterdotcom.wordpress.com/2013/09/24/what-the-heck-does-ccf-mean/)
+
+Heating Oil:
+There are 10.15 kg of CO2 per gallon of home heating oil.
+
+Vehicles:
+Unleaded gasoline emits 8.91 kg of CO2 per gallon.
+
+Air Travel:
+CO2 emissions in air travel vary by length of flight, ranging from 0.254 kg CO2e per passenger mile to 0.144 kg CO2e per passenger mile, depending on the flight distance.
+
+Rail Travel:
+On average, commuter rail emits 0.17 kgs CO2e per passenger mile and subway trains emit 0.121 kgs CO2e per passenger mile, and long distance trains (i.e., intercity rail) emit 0.137 kgs CO2e per passenger mile.
+
+Bus Travel:
+On average, bus trips emit 0.055kgs CO2e per passenger mile.
+
+Meals:
+The average person’s diet contributes 2,545 kilograms CO2e to the atmosphere each year. By dividing by 365, it is deduced that the average person’s diet contributes, on average, 7 kg CO2e a day from their meals. This calculation is based on an average US, non-vegetarian diet.
+
+Hotel Rooms:
+Emissions associated with a one night stay in a hotel room are calculated at 16.8 kg CO2 per room day for an average US-based hotel (budget through mid-scale). For upscale US-based hotels, that include restaurants, meal service and meeting space, emissions are calculated at 33.38 kg CO2 per room day.
+
+Shipping Emissions Factors:
+Air cargo – 1.319 kg CO2e per Tonne-Mile.
+Truck – 0.14645 kg CO2e per Tonne-Mile.
+Train – 0.0242 kg CO2e per Tonne-Mile.
+Sea freight – 0.0602 kg CO2e per Tonne-Mile.
+
+Conversions
+1 Renewable Energy Certificate = 1 Megawatt Hour (MWh) = 1,000 Kilowatt Hours (KWh)
+1 Kilowatt Hour = 3,413 British Thermal Units (BTUs)
+1 Metric Tonne = 2,204.6 Pounds
+1 Pound = 0.00045 Metric Tonnes
+1 Short Ton = 2,000 Pounds
+1 Short Ton = 0.90719 Metric Tonnes
+1 Therm = 100 Cubic Feet
+1 CCF = Abbreviation for 100 Cubic Feet
+1 CCF = 1.024 Therms

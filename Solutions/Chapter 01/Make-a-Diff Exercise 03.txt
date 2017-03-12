@@ -1,0 +1,17 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 1.
+
+Notice: this file is optimized to display width of 120 characters.
+
+Making-a-Difference exercise 03 (01.28) - Attributes of Hybrid Vehicles.
+
+Attributes: /   Car:            Honda NSX       BMW i8          Ford Fusion Hybrid      Volkswagen Jetta Hybrid	
+Engine displacement (L):        3.5				3.1			    2.0						1.4
+Number of electric motors:		2				2		    	1						1
+Horsepower:						550				362	 	        188				    	150
+City-miles-per-gallon:			21				28		    	18						42
+Highway-miles-per-gallon:		22				29		    	19	    				48
+Battery type:					Lithium-ion		Lithium-ion		Lithium-ion				Lithium-ion
+Battery weight (kg):			78				81				62						53
+Battary capacity (kWh):			5				7				7.6			    		1.1
+Battery voltage (V):			360				355				120						220

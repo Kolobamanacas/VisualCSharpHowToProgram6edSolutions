@@ -1,0 +1,29 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 2.
+
+Exercise 01 (02.03).
+    1. A dialog containing additional options.
+    2. F1.
+    3. Graphic User Interface.
+    4. Image.
+    5. Despite obvious desire to say Window, in fact the View menu contains commands for arranging and displaying windows.
+
+Exercise 02 (02.04).
+    1. True.
+    2. False. Each control from the toolbox has its own properties.
+    3. This is ambiguous. Technically Visual Studio has built in web browser (wich in fact uses Internet Explorer) but it was not designed to use it as a regular browser. So the answer is true as you can open some links in internal browser by clicking them and false as soon as you can't just open Visual Studio to enter some link in address bar to check a website.
+    4. False. Visual programming technique helps you to avoid code writing during creating graphic user unterfaces for an application, but all the logic should still be written with code.
+    5. It depending on settings but in common - yes, it is true.
+
+Exercise 03 (02.05).
+    Depending on action you need to accompish different approaches of setting properties up could be more appropreate. For example when you need to put some control (like label) to certain position it is easier to press arrow buttons to move it to the place you need as you can see complete form's view during the process. In contrast when you need to set up many different properties for a control (like font properties) it is more useful to have separate window with all necessary settings in it, which is usually accessable by clicking ellipsis button. You could also need different level of support depending on your actions. For example it is strange to open huge article on a website just to check brief menu item description. Tool tips are very useful in such cases. But tool tips can't provide extensive help with particular subject if you need it. In such cases you use F1 to call context-depending help that covers a subject in deeper way.
+
+    Such approach provides flexibility to have the most appropriate tool for every task.
+
+Exercise 04 (02.06).
+    1. Toolbar is a panel with icons which graphically represent Visual Studio's commands. You can choose which toolbars to show.
+    2. Menu bar is a panel which conains the majority of Visual Studio's menus grouped by categories each of whoch executes a particular command.
+    3. Toolbox is a panel containing controls you can add to a from.
+    4. Control is an element of graphic user interface used by user to interact with a software.
+    5. Form is commonly a window to which you could add controls. Single application could contain from one to unlimited number of forms.
+    6. Solution is a set of projects.

@@ -1,0 +1,62 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 3.
+
+Exercise 01 (03.07).
+    1. Comments.
+    2. Condition statements like IF.
+    3. Expression.
+    4. Division and reminder.
+    5. Innermost.
+    6. Variable.
+
+Exercise 02 (03.08).
+    1. Console.Write("Enter an integer: ");
+    2. a = b * c;
+    3. // Payroll calculation software.
+
+Exercise 03 (03.09).
+    1. False. C# operators are evaluated according to their precedence first and according to their type second. For example multiplication or reminder evalute from left to right, but an assignment operator evaluates from right to left.
+    2. True.
+    3. False. C# operators are evaluated according to their precedence first and according to their type second. For example multiplication or reminder evalute from left to right, but an assignment operator evaluates from right to left.
+    4. False. h22 is a valid variable name.
+
+Exercise 04 (03.10).
+    1. x = 2
+    2. Value of 2 + 2 is 4
+    3. x =
+    4. 5 = 5
+
+Exercise 05 (03.11)
+    1. The value of variable p is modified.
+    2. Nothing is modified here.
+    3. Nothing is modified here.
+    4. The value of variable value could be modified if entered data differs from previous value's value.
+
+Exercise 06 (03.12)
+    1. Correct.
+    2. Incorrect. Addition has lower precedence than multiplication and should be performed last, but during the braces it would be performed before multiplication.
+    3. Incorrect. Addition has lower precedence than multiplication and should be performed last, but during the braces it would be performed before multiplication.
+    4. Correct.
+    5. Correct.
+    6. Incorrect. Addition has lower precedence than multiplication and should be performed last, but during the braces it would be performed before multiplication.
+
+Exercise 07 (03.13)
+    1. Multiplication, division and reminder have the same precedence. Addition and subtraction also have the same level of precedence, but lower than first group. Without braces in the begining all operations from the first group would be performed and only after that operators from the second group would follow. In the same level of precedence operations are evalueted from left to right. It gives us the following order of calculations:
+        3 * 6 = 24
+        24 / 2 = 12
+        7 + 12 = 21
+        21 - 1 = 20
+        x = 20
+    2. 2 % 2 = 0
+        2 * 2 = 4
+        2 / 2 = 1
+        0 + 4 = 4
+        4 - 1 = 3
+        x = 3
+    3. When braces occurs in an expression the innermost part of braces sequence evaluetes first. All other rules of precedence and left to right evaluation stay the same.
+        9 * 3 = 27
+        27 / 3 = 9
+        3 + 9 = 12
+        3 * 9 = 27
+        27 * 12 = 324
+        x = 324
