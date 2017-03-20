@@ -1,0 +1,28 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 5.
+
+Exercise 08(01) (05.17) Gas Mileage.
+
+Notice: my version of the textbook has some strange numeration at 5th chapter's exercises, the first part of the number starts from the beginning after Exercise 7, so I decide to continue numeration as if it would not be changed and put number from the book in paranthesis.
+
+First pseudocode statement that conveys an overall purpose of the application.
+    Determine the mile per gallon usage for orbitrary number of tankfuls and their totals based on gallons used and miles driven input.
+
+First refinement.
+    Initialize variables.
+   
+    Read miles driven and gallons used for arbitrary number of tankfuls and print miles per gallon usage for every tankful following by combined miles per gallon to the point.
+
+Second refinement.
+    Set total number of tankfuls to zero.
+    Set total number of miles per gallon to zero.
+
+    Read miles driven for the first tankful.
+
+    While miles driven for cureent tankful is non equal to -1.
+        Read gallons used for the first tankful.
+        Increment tankfuls count.
+        Print miles per gallon usage for current tankful.
+        Add miles per gallon usage of current tankful to total usage.
+        Print total miles per gallon usage to the point.
+        Read miles driven for the next tankful.

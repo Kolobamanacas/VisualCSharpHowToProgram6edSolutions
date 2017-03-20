@@ -1,0 +1,35 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 5.
+
+Exercise 10(03) (05.19) Sales-Commission Calculator.
+
+Notice.
+    My version of the textbook has some strange numeration at 5th chapter's exercises, the first part of the number starts from the beginning after Exercise 7, so I decide to continue numeration as if it would not be changed and put number from the book in paranthesis.
+
+First pseudocode statement that conveys an overall purpose of the application.
+    Calculate a salesperson's earnings for a week on the basis of list of items sold.
+
+First refinement.
+    Initialize variables.
+    
+    Read prices for the list of sold items, then calculate and print a salesperson's earnings.
+
+Second refinement.
+    Set total amount of money for all sold items to 0.
+    Set fixed amount of money a salesperson get per week to 200.
+    
+    Print a welcome message.
+    Read a price for the first item sold.
+    
+    If price is equal to -1:
+        Print a message about non data was provided.
+    
+    While price is not equal to -1:
+        Add price to a total worth.
+        
+        Read a price for the next item sold.
+        
+        If new price is equal to -1:
+            Calculate and print a salesperson earnings.
+    
+    Print a farewell message.

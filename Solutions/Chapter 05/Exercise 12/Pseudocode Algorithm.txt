@@ -1,0 +1,36 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 5.
+
+Exercise 12(05) (05.21) Find the Largest Number.
+
+Notice.
+    My version of the textbook has some strange numeration at 5th chapter's exercises, the first part of the number starts from the beginning after Exercise 7, so I decide to continue numeration as if it would not be changed and put number from the book in paranthesis.
+
+First pseudocode statement that conveys an overall purpose of the application.
+    Find the largest number from the row of ten numbers.
+
+First refinement.
+    Initialize variables.
+    
+    Read values from user and calculate the largest one.
+    
+    Print the results.
+
+Second refinement.
+    Print a welcome message.
+    
+    Set counter to 1.
+    Set number to 0.
+    Set largest to 0.
+    
+    Read the first number and write it to the largest.
+    
+    While counter is less than or equal to 9:
+        Read the next number from user.
+        If the next number is larger than the largest:
+            Write the number to the largest.
+        Increment counter by 1.
+    
+    Print the largest number.
+    
+    Print a farewell message.

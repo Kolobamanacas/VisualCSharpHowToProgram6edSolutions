@@ -1,0 +1,61 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 5.
+
+Exercise 09(02) (05.18) Credit-Limit Calculator.
+
+Notice.
+    My version of the textbook has some strange numeration at 5th chapter's exercises, the first part of the number starts from the beginning after Exercise 7, so I decide to continue numeration as if it would not be changed and put number from the book in paranthesis.
+
+Comments.
+    To be hornest, this exercise was the most challengeing to the moment. Not because of difficult implementation, but because it is very difficult to understand what do I need to do.
+   
+    First of all, I've never heard about department stores before, probably because of lack of such stores in my country (we jumped to mass malls in the 2000s). Thanks to wiki, I refill my vocabulary with this term.
+    https://en.wikipedia.org/wiki/Department_store
+   
+    The second are points 3 and 4 from available facts. The phrase "total of all items" sounds to me as "number of items". But it is semantically clear that they mean the amount of money for items and not the count.
+
+    The next one is a credit system. This feature of modern world is also something new to me and despite it is widely available service to the date, I feal that I still miss some principles of it's operations as I never heard about charge accounts.
+   
+    The common meaning of a "credit" word is known as the amount of money some organization (a bank) lends you for certain period of time. But this approach has no any accounts. We also have credit cards which basically have accounts linked to them. With this approach an account usually has some amount of money in it and this amount is called a credit limit. But here is the tricky part. Let's say I have 100$ in my account linked with my credit card. When I buy an item for 60$, my new balance in the account should be:
+    beginning balance - charges = new balance
+    (100 - 60 = 40)
+    And we exceed the credit limit when the balance become a negative (less than 0). But the exercise's example clearly shows that new balance is the sum of initial balance and charges not the difference.
+   
+    The term used in the text book is a "charge account". And taking into account my thoughts above, I guess that this charge account system works another way.
+   
+    The dictionary.cambridge.org says that a charge account usually provided not by a bank but by a selling store itself.
+    http://dictionary.cambridge.org/dictionary/english/charge-account
+    This explains the meaning but doesn't explain the operations principles.
+   
+    I've discussed the exercise with my friend who has bachelor's degree in economics. She supposed that "charges" are the amount of money that you add to your account as a payment for applyed credits to repay them. And "credits" are the amount of money store lends you to be repayd later. This means that a "credit limit" is the amount of money that our balance can't fall below of. And the "credit limit" is exceeded when new balance's value is lower than a credit limit's value.
+   
+    As soon as I still had some doubts I've serched in google for the solutions of the exercise and I was surprised to find that every solution I found had it's own interpritation of the exercise's conditions.
+   
+    At the end I've decided to use the approach proposed by my friend. If you believe that it's incorrect, I would be glad to hear your explanation.
+
+First pseudocode statement that conveys an overall purpose of the application.
+    Determine whether any of several department-store customers has exceeded a credit limit on a charge account.
+
+First refinement.
+    Read account number, initial balance, charges, credits and credit limit for arbitrary number of customers and print resulting balance and additional message if their credit limit was exceeded.
+
+Second refinement.
+    Print a welcome message.
+    Read account number for the first customer.
+    
+    If account number is equal to -1:
+        Print message about none data was entered.
+    
+    While account number is not equal to -1:
+        Read a balance at the beginning of the month.
+        Read total amount of money charged for items this month.
+        Read total amount of money lended as credits this month.
+        Read an allowed credit limit.
+        Print new balance.
+        
+        If the new balance is lower than the credit limit:
+            Print credit excess message.
+        
+        Read account number for the next customer.
+    
+    Print a farewell message.

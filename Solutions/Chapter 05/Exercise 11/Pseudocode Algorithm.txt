@@ -1,0 +1,29 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 5.
+
+Exercise 11(04) (05.20) Salary Calculator.
+
+Notice.
+    My version of the textbook has some strange numeration at 5th chapter's exercises, the first part of the number starts from the beginning after Exercise 7, so I decide to continue numeration as if it would not be changed and put number from the book in paranthesis.
+
+First pseudocode statement that conveys an overall purpose of the application.
+    Calculate salary of three employees on the basis of their hourly rates and numbers of hours worked.
+
+First refinement.
+    Read data for employees.
+    Print results.
+
+Second refinement.
+    Print a welcome message.
+
+    Set employees counter to 1.
+    
+    While counter <= 3:
+        Read hours worked by an employee.
+        Read hourly rate for an employee.
+        Calculate gross salary for an employee.
+        Print gross salary of an employee.
+        
+        Add 1 to counter.
+    
+    Print a farewell message.

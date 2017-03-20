@@ -1,0 +1,84 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 05.
+
+Exercise 01 (05.10).
+    IF statement used to execute some group of actions in case of some condition is true. If the condition is false - the group of actions just ommitted.
+    IF-ELSE statement executes one group of actions if some condition is true and executes another group of actions if the same condition is false.
+    So the main differences between IF and IF-ELSE statements is that IF answers to the question "should I execute or should I ommit?" and IF-ELSE answers to the question "should I execute this or should I execute that?".
+
+Exercise 02 (05.11).
+    In C# if you devide one integer by another integer the result will always be integer too. In case when this division results in real number (i.e. number with fractional part like 7 / 3 = 2.333...) all the fractional part is truncated. When we need to get real number as a result of devision of one integer by another we could use a cast operation (for example (double)) to create hidden copy of integer number but with appropriate real type (real or double) and use this copy in calculations. Arithmetical operations can be performed only with variables of the same type and if variables have different types C# automatically "promotes" one of them to the same type.
+
+Exercise 03 (05.12).
+    They are stacking and nesting. Stacking means that C# put all control statements into "stack" and "get" them them from it and execute one by one in order they are written. Nesting is property of tatements that allow to put one statement iside of another. For example you could put an IF statement iside the body of a WHILE loop.
+
+Exercise 04 (05.13).
+    When number of iterations need to be performed is known in advance (which is the case with summing first 100 positive integers) the counter-controlled type of iteration is appropriate. This type uses a value of a variable created as a counter to count number of iterations to check wether it should continue looping os should it stop looping. In the beginning we set counter to some initial value (like 1 or 0). Then we start iterations and at every cycle of iteration we check wether our counter is less than number of cycles we want to perform. While it is less we perform action need to be performed and increment counter by 1 and the loop continues from the beginning - checking if the new counter's value is greater than limit. The loop stops only when counter become larger than number of desired number of iterations.
+    In the second case, when number of iterations is not known in advance (like in case when we need to calculate the sum of arbitrary number of positive integers) an appropriate type of iteration is sentinel-controlled one. In this case we chose special number to be a sentinel and every loop we check wether the value input by user is a sentinel value. The loop iterates until this sentinel value would be entered.
+
+Exercise 05 (05.14).
+    If used as a single statement both the preinctement and the postincrement operator behave the same way - they add 1 to a value of variable with which they are used.
+    If used in complex expressions preincrement operator adds 1 to a value of a variable first and then uses a new value in calculations. But the postincrement uses old value of a variable in calculations and only then adds 1 to this variable.
+
+Exercise 06 (05.15)
+    1. There is irrlevant semicolon in the line 1 (last character an the line).
+    2. Incorrect syntax in the first line. The total variable should declared on a separate line and some initial value should be assigned to it before using.
+    3. Without curly braces delimiting its body a WHILE statement would consider only the first statement next to condition check as its body. This means that variable x would never be changed during the WHILE loop. This leads an application to infinite loop in case when x's initial value was less or equal to 100. Or it leads to situation when WHILE loop would be never executed in all other cases.
+    4. There is lack of closing curly brace at the end of WHILE statement's body.
+
+Exercise 07 (05.16)
+    The app displays the list of sqares of integers from 1 to 10 and the sum of these squares at the end.
+   
+Exercise 16(09) (05.25)
+    The app prints different set of asterisks for odd and even numbers from one to ten. The resulting print is:
+    ****
+    ********
+    ****
+    ********
+    ****
+    ********
+    ****
+    ********
+    ****
+    ********
+
+Exercise 17(10) (05.26)
+    The app prints rows of different equality signs (less than and greater than) for rows which numbers are odd and even and empty line between rows. The resulting print is:
+    >>>>>>>>>>
+    
+    <<<<<<<<<<
+    
+    >>>>>>>>>>
+    
+    <<<<<<<<<<
+    
+    >>>>>>>>>>
+    
+    <<<<<<<<<<
+    
+    >>>>>>>>>>
+    
+    <<<<<<<<<<
+    
+    >>>>>>>>>>
+    
+    <<<<<<<<<<
+
+Exercise 19(12) (05.28)
+    Output for snippet 1, case 1 (x == 9; y == 11).
+        *****
+        $$$$$
+    
+    Output for snippet 1, case 2 (x == 11; y == 9).
+        $$$$$
+    
+    Output for snippet 2, case 1 (x == 9; y == 11).
+        *****
+    
+    Output for snippet 2, case 2 (x == 11; y == 9).
+        #####
+        $$$$$
+
+Exercise 26(19) (05.35)
+    An increment operator can't be used with expressions. It can be used only with variables, properties and (as google shows) something called indexes. The correct code should be like this:
+    Console.WriteLine(1 + (x + y));
