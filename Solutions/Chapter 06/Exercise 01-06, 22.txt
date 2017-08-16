@@ -1,0 +1,85 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 6.
+
+Exercise 01 (06.05).
+    - Initialize control variable.
+    - Check condition.
+    - Execute the code inside an appropriate block in case whan condition is true.
+    - Increment/decrement control variable.
+
+Exercise 02 (06.06).
+    Counter or a control variable declaration and initialization, together with it's following incrementation during a loop are done manually, outside of a header in case of while statement. All these operations could be done inside a for statement's header. This makes for statement a more convenient tool for counter-controlled iterations and makes while statement a better choice for a sentinel-controlled iterations.
+
+Exercise 03 (06.07).
+    Consider you need to create a list of a new company's empoyees. You need to enter data to an app for one user at once, and in the end of input, the app would ask wether we want to continue input for the next employee. As soon as a company should consist of at least one emplyee, the data for at least one emplyee should be entered. In such cases a do...while statement is more appropriate than simple while.
+
+Exercise 04 (06.08).
+    Both break and continue statements are used within iteration and selection (in case of switch) statements. Break is used in case one needs to leave iteration/selection statement's body immediately without execution the rest of the code the body contains. In contrast a continue statement ignores the following code within within iteration statement's body and immediately "jump" to the next loop. In case of for iteration statement, if a continue statement is used, control variable incrementation/decrementation is executed before the next loop's start.
+
+Exercise 05 (06.09).
+    1. An infinite loop would happen. The control variable should be decremented instead of incremented. Also for is misspelled with For. C# is a case sensitive language, so for and For are different words. The corrected code:
+    for (i = 100; i >= 1; --i)
+    {
+        Console.WriteLine(i);
+    }
+
+    2. There is no break at the end of every case.  The corrected code:
+    switch (value % 2   )
+    {
+        case 0:
+            Console.WriteLine("Even integer");
+            break;
+        case 1:
+            Console.WriteLine("Odd integer");
+            break;
+    }
+
+    3. Again the control variable is incremented instead of decremented. The corrected code:
+    for (int i = 19; i >= 1; i -= 2)
+    {
+        Console.WriteLine(i);
+    }
+
+    4. 100 value would never been displayed. The corrected code:
+    counter = 2;
+
+    do
+    {
+        Console.WriteLine(counter);
+        counter += 2;
+    } while (counter <= 100);
+
+Exercise 06 (06.10).
+    It prints ten rows of five at symbols, like this:
+    @@@@@
+    @@@@@
+    @@@@@
+    @@@@@
+    @@@@@
+    @@@@@
+    @@@@@
+    @@@@@
+    @@@@@
+    @@@@@
+
+Exercise 22 (06.26).
+    It prints five rectangles 4 in width and 3 in height separated by a new line character. Like this:
+    ****
+    ****
+    ****
+
+    ****
+    ****
+    ****
+
+    ****
+    ****
+    ****
+
+    ****
+    ****
+    ****
+
+    ****
+    ****
+    ****
