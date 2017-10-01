@@ -1,0 +1,27 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 7.
+
+Exercise 05 (07.11).
+	1. It means to use mathematical algorithms to generate pseudo random numbers - pseudo unpredictable sequence of numbers.
+	2. Because chance of any result is random in real life and because using existing class let us do not reinvent the wheel.
+	3. Because it helps to generate any sequences and not only seqenses of numbers in direct order.
+	4. Because it is cheper, it is faster, it is sometimes more accureate. Understanding of existing helps us understand the future.
+
+Exercise 06 (07.12).
+	1. n = randomNumbers.Next(1, 3);
+	2. n = randomNumbers.Next(1, 101);
+	3. n = randomNumbers.Next(0, 10);
+	4. n = randomNumbers.Next(1000, 1113);
+	5. n = randomNumbers.Next(-1, 2);
+	6. n = randomNumbers.Next(-3, 12);
+
+Exercise 07 (07.13).
+	1. Console.WriteLine($"{(randomNumbers.Next(5) + 1) * 2}");
+	2. Console.WriteLine($"{(randomNumbers.Next(5) + 2) * 2 - 1}");
+	3. Console.WriteLine($"{(randomNumbers.Next(5) + 1) * 4 + 2}");
+
+Exercise 31 (07.37).
+	The code returns the product of "a" and "b".
+
+Exercise 32 (07.38).
+	The value "n" passed as argument for recursive call of "Sum()" method is not modified which would lead to an infinite loop. Depending of "n's" initial value, it should be incremented or decremented to eventually become 0.
