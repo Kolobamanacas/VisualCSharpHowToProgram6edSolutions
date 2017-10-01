@@ -1,6 +1,6 @@
 // Solution to exercises from "C# How to Program 6th edition".
 // Chapter 6.
-// Exercise Making-a-Difference Exercise 01 (06.29) Global Warming Facts Quiz.
+// Making-a-Difference Exercise 01 (06.29) Global Warming Facts Quiz.
 
 /* This exercise could be a good example to demonstrate arrays, but we don't know about them to the moment. But as soon as our software become more and more complicated, let's still try to keep it as simple as possible.
 

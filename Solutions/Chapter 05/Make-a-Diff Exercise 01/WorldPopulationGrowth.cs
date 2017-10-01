@@ -1,6 +1,6 @@
 // Solution to exercises from "C# How to Program 6th edition".
 // Chapter 5.
-// Exercise Making-a-Difference Exercise 01 (05.41) World Population Growth.
+// Making-a-Difference Exercise 01 (05.41) World Population Growth.
 
 using System;
 

@@ -1,6 +1,6 @@
 // Solution to exercises from "C# How to Program 6th edition".
 // Chapter 5.
-// Exercise Making-a-Difference Exercise 02 (05.42) Enforcing Privicy with Cryptography.
+// Making-a-Difference Exercise 02 (05.42) Enforcing Privicy with Cryptography.
 
 using System;
 
