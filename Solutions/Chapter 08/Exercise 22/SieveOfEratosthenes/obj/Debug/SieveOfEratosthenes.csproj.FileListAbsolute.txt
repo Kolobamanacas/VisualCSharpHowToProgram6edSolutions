@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 22\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 22\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 22\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 22\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 22\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 22\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 22\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

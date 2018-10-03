@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 02\ComputerSimulator\bin\Debug\ComputerSimulator.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 02\ComputerSimulator\bin\Debug\ComputerSimulator.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 02\ComputerSimulator\bin\Debug\ComputerSimulator.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 02\ComputerSimulator\obj\Debug\ComputerSimulator.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 02\ComputerSimulator\obj\Debug\ComputerSimulator.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 02\ComputerSimulator\obj\Debug\ComputerSimulator.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 02\ComputerSimulator\obj\Debug\ComputerSimulator.pdb

@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 01\QueryingAnArrayOfInvoiceObjects\bin\Debug\QueryingAnArrayOfInvoiceObjects.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 01\QueryingAnArrayOfInvoiceObjects\bin\Debug\QueryingAnArrayOfInvoiceObjects.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 01\QueryingAnArrayOfInvoiceObjects\bin\Debug\QueryingAnArrayOfInvoiceObjects.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 01\QueryingAnArrayOfInvoiceObjects\obj\Debug\QueryingAnArrayOfInvoiceObjects.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 01\QueryingAnArrayOfInvoiceObjects\obj\Debug\QueryingAnArrayOfInvoiceObjects.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 01\QueryingAnArrayOfInvoiceObjects\obj\Debug\QueryingAnArrayOfInvoiceObjects.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 01\QueryingAnArrayOfInvoiceObjects\obj\Debug\QueryingAnArrayOfInvoiceObjects.pdb

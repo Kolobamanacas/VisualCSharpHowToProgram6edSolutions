@@ -1,0 +1,11 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 8.
+
+Exercise 18 (08.23) Knight's Tour: Brute-Force Approaches.
+
+1. He made 24 steps.
+2. The best result was 57 steps.
+3. Befor producing a full tour a knight did 528484 attempts.
+4. Accessibility approach requires more careful study of the problem, but brute-force approach is easier to develop, but in turn brute-force approach requires more cumputing power. We can't be certain in advance of obtaining a full tour with the accessibility-heuristic approach, but we can be sure that we eventually produce a full tour with brute-force approach (but depending on the computing power we have, it could take a lot of time).
+
+I would say that if computing power isn't an issue, brute-force approaches would always do the job, but elegant solution using heuristic is more preferable as it could eventually save time and resources.

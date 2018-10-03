@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 23\TortoiseVsHare\bin\Debug\TortoiseVsHare.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 23\TortoiseVsHare\bin\Debug\TortoiseVsHare.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 23\TortoiseVsHare\bin\Debug\TortoiseVsHare.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 23\TortoiseVsHare\obj\Debug\TortoiseVsHare.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 23\TortoiseVsHare\obj\Debug\TortoiseVsHare.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 23\TortoiseVsHare\obj\Debug\TortoiseVsHare.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 23\TortoiseVsHare\obj\Debug\TortoiseVsHare.pdb

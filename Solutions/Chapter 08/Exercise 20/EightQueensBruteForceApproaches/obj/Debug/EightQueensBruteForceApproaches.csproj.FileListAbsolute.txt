@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 20\EightQueensBruteForceApproaches\bin\Debug\EightQueensBruteForceApproaches.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 20\EightQueensBruteForceApproaches\bin\Debug\EightQueensBruteForceApproaches.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 20\EightQueensBruteForceApproaches\bin\Debug\EightQueensBruteForceApproaches.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 20\EightQueensBruteForceApproaches\obj\Debug\EightQueensBruteForceApproaches.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 20\EightQueensBruteForceApproaches\obj\Debug\EightQueensBruteForceApproaches.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 20\EightQueensBruteForceApproaches\obj\Debug\EightQueensBruteForceApproaches.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 20\EightQueensBruteForceApproaches\obj\Debug\EightQueensBruteForceApproaches.pdb

@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Make-a-Diff Exercise 01\Polling\bin\Debug\Polling.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Make-a-Diff Exercise 01\Polling\bin\Debug\Polling.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Make-a-Diff Exercise 01\Polling\bin\Debug\Polling.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Make-a-Diff Exercise 01\Polling\obj\Debug\Polling.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Make-a-Diff Exercise 01\Polling\obj\Debug\Polling.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Make-a-Diff Exercise 01\Polling\obj\Debug\Polling.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Make-a-Diff Exercise 01\Polling\obj\Debug\Polling.pdb

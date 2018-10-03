@@ -1,0 +1,174 @@
+Solution to exercises from "C# How to Program 6th edition".
+Chapter 8.
+
+Exercise 01 (08.06).
+    1) p[0], p[1], p[2] and p[3].
+    2) Declaration of an array with array-creation expression.
+    3) The first identifies the row and the second identiies the column.
+    4) m rows, n columns and m times n elements.
+    5) d[3][5].
+
+Exercise 02 (08.07).
+    1) False. We specify not element's value, but it's index.
+    2) True.
+    3) False. The programmer writes:
+        int[] p = new int[100];
+        or
+        var p = new int[100];
+    4) False. 0 is a default value of an element of an array if it was not specified.
+    5) False. You could, but you mustn't. You could also use foreach statement.
+
+Exercise 03 (08.08).
+    1)
+        Console.Write(f[6]);
+    2)
+        for (int element; element < g.Length; ++element)
+        {
+            g[element] = 8;
+        }
+    3)
+        static double TotalElements(double[] c)
+        {
+            double total = 1;
+            
+            foreach (double element in c)
+            {
+                total *= element;
+            }
+            
+            return total;
+        }
+    4)
+        for (int elementIndex = 0; elementIndex < a.Length; ++elementIndex)
+        {
+            b[elementIndex] = a[elementIndex];
+        }
+    5)
+        double Minimum(double[] w)
+        {
+            double min = w[0];
+
+            foreach (double element in w)
+            {
+                if (element < min)
+                {
+                    min = element;
+                }
+            }
+
+            return min;
+        }
+
+        double Maximum(double[] w)
+        {
+            double max = w[0];
+
+            foreach (double element in w)
+            {
+                if (element < max)
+                {
+                    max = element;
+                }
+            }
+
+            return max;
+        }
+
+Exercise 04 (08.09).
+    1) int[,] t = new int [2, 3];
+    2) Two rows.
+    3) Three columns.
+    4) Six elements.
+    5) t[0, 0]   t[0, 1]   t[0, 2]
+    6) t[0, 2]   t[1, 2]
+    7) t[0, 1] = 0;
+    8)
+        t[0, 0] = 1;
+        t[0, 1] = 1;
+        t[0, 2] = 1;
+        t[1, 0] = 1;
+        t[1, 1] = 1;
+        t[1, 2] = 1;
+    9)
+        for (int row = 0; row < t.GetLength(0); ++row)
+        {
+            for (int column = 0; column < t.GetLength(1); ++column)
+            {
+                t[row, column] = 3;
+            }
+        }
+    10)
+        for (int row = 0; row < t.GetLength(0); ++row)
+        {
+            for (int column = 0; column < t.GetLength(1); ++column)
+            {
+                Console.Write($"Enter the value for element in row {row} and column {column}: ");
+                t[row, column] = int.Parse(Console.ReadLine());
+            }
+        }
+    11)
+        int Minimum(int[,] t)
+        {
+            int min = t[0, 0];
+
+            foreach (int element in t)
+            {
+                if (element < min)
+                {
+                    min = element;
+                }
+            }
+
+            return min;
+        }
+    12)
+        for (int column = 0; column < t.GetLength(1); ++columnt)
+        {
+            Console.Write($"{t[0, column]}  ");
+        }
+    13)
+        int total = 0;
+
+        for (int row = 0; row < t.GetLength(0); ++row)
+        {
+            total += t[row,2];
+        }
+    14)
+        Console.WriteLine($"       {0,5}{1,5}{2,5}{3,5}");
+
+        for (int row = 0; row < t.GetLength(0); ++row)
+        {
+            Console.Write($"Row {row}: ");
+
+            for (int column = 0; column < t.GetLength(1); ++column)
+            {
+                Console.Write($"t[row, columnt],5");
+            }
+
+            Console.WriteLine();
+        }
+
+Exercise 06 (08.11) Array Manipulations.
+    1)
+        counts[0] = 0;
+        counts[1] = 0;
+        counts[2] = 0;
+    2)
+        for (int element = 0; element < bonus.Length; ++element)
+        {
+            bonus[element] += 1;
+        }
+    3)
+        Console.WriteLine("Index  Value");
+
+        foreach (int element in bestScores)
+        {
+            Console.Write($"{element,5}");
+            Console.WriteLine($"bestScores[element]");
+        }
+
+Exercise 08 (08.13) Jagged Arrays.
+    From left to right, from up to down:
+    sales[0][0]  sales[0][1]  sales[0][2]  sales[0][3]  sales[0][4]
+    sales[1][0]  sales[1][1]  sales[1][2]  sales[1][3]  sales[1][4]
+    sales[2][0]  sales[2][1]  sales[2][2]  sales[2][3]  sales[2][4]

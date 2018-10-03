@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 01\MachineLanguageProgramming\bin\Debug\MachineLanguageProgramming.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 01\MachineLanguageProgramming\bin\Debug\MachineLanguageProgramming.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 01\MachineLanguageProgramming\bin\Debug\MachineLanguageProgramming.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 01\MachineLanguageProgramming\obj\Debug\MachineLanguageProgramming.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 01\MachineLanguageProgramming\obj\Debug\MachineLanguageProgramming.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 01\MachineLanguageProgramming\obj\Debug\MachineLanguageProgramming.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 01\MachineLanguageProgramming\obj\Debug\MachineLanguageProgramming.pdb

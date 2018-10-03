@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 02\DuplicateWordRemoval\bin\Debug\DuplicateWordRemoval.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 02\DuplicateWordRemoval\bin\Debug\DuplicateWordRemoval.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 02\DuplicateWordRemoval\bin\Debug\DuplicateWordRemoval.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 02\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 02\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 02\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 09\Exercise 02\DuplicateWordRemoval\obj\Debug\DuplicateWordRemoval.pdb

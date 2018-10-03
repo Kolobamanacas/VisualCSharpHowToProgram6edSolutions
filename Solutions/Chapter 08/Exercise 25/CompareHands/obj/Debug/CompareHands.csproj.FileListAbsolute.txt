@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 25\CompareHands\bin\Debug\CompareHands.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 25\CompareHands\bin\Debug\CompareHands.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 25\CompareHands\bin\Debug\CompareHands.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 25\CompareHands\obj\Debug\CompareHands.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 25\CompareHands\obj\Debug\CompareHands.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 25\CompareHands\obj\Debug\CompareHands.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 25\CompareHands\obj\Debug\CompareHands.pdb

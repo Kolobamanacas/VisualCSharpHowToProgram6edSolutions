@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 21\KnightsTourClosedTourTest\bin\Debug\KnightsTourClosedTourTest.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 21\KnightsTourClosedTourTest\bin\Debug\KnightsTourClosedTourTest.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 21\KnightsTourClosedTourTest\bin\Debug\KnightsTourClosedTourTest.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 21\KnightsTourClosedTourTest\obj\Debug\KnightsTourClosedTourTest.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 21\KnightsTourClosedTourTest\obj\Debug\KnightsTourClosedTourTest.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 21\KnightsTourClosedTourTest\obj\Debug\KnightsTourClosedTourTest.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 21\KnightsTourClosedTourTest\obj\Debug\KnightsTourClosedTourTest.pdb

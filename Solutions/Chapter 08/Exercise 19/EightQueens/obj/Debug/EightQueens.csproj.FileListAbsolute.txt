@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 19\EightQueens\bin\Debug\EightQueens.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 19\EightQueens\bin\Debug\EightQueens.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 19\EightQueens\bin\Debug\EightQueens.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 19\EightQueens\obj\Debug\EightQueens.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 19\EightQueens\obj\Debug\EightQueens.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 19\EightQueens\obj\Debug\EightQueens.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 19\EightQueens\obj\Debug\EightQueens.pdb

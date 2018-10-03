@@ -1,0 +1,7 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 03\SimpletronSimulatorModifications\bin\Debug\SimpletronSimulatorModifications.exe.config
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 03\SimpletronSimulatorModifications\bin\Debug\SimpletronSimulatorModifications.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 03\SimpletronSimulatorModifications\bin\Debug\SimpletronSimulatorModifications.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 03\SimpletronSimulatorModifications\obj\Debug\SimpletronSimulatorModifications.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 03\SimpletronSimulatorModifications\obj\Debug\SimpletronSimulatorModifications.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 03\SimpletronSimulatorModifications\obj\Debug\SimpletronSimulatorModifications.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Special Section - Build Your Own Computer. Exercise 03\SimpletronSimulatorModifications\obj\Debug\SimpletronSimulatorModifications.pdb

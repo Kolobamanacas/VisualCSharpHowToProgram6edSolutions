@@ -1,0 +1,11 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\bin\Debug\netcoreapp2.0\TurtleGraphics.deps.json
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\bin\Debug\netcoreapp2.0\TurtleGraphics.runtimeconfig.json
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\bin\Debug\netcoreapp2.0\TurtleGraphics.runtimeconfig.dev.json
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\bin\Debug\netcoreapp2.0\TurtleGraphics.dll
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\bin\Debug\netcoreapp2.0\TurtleGraphics.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\obj\Debug\netcoreapp2.0\TurtleGraphics.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\obj\Debug\netcoreapp2.0\TurtleGraphics.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\obj\Debug\netcoreapp2.0\TurtleGraphics.AssemblyInfoInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\obj\Debug\netcoreapp2.0\TurtleGraphics.AssemblyInfo.cs
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\obj\Debug\netcoreapp2.0\TurtleGraphics.dll
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 16\TurtleGraphics\obj\Debug\netcoreapp2.0\TurtleGraphics.pdb

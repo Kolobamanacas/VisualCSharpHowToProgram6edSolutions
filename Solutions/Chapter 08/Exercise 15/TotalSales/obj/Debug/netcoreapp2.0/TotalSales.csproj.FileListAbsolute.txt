@@ -1,0 +1,11 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\obj\Debug\netcoreapp2.0\TotalSales.csprojResolveAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\obj\Debug\netcoreapp2.0\TotalSales.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\obj\Debug\netcoreapp2.0\TotalSales.AssemblyInfoInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\obj\Debug\netcoreapp2.0\TotalSales.AssemblyInfo.cs
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\bin\Debug\netcoreapp2.0\TotalSales.deps.json
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\bin\Debug\netcoreapp2.0\TotalSales.runtimeconfig.json
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\bin\Debug\netcoreapp2.0\TotalSales.runtimeconfig.dev.json
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\bin\Debug\netcoreapp2.0\TotalSales.dll
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\bin\Debug\netcoreapp2.0\TotalSales.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\obj\Debug\netcoreapp2.0\TotalSales.dll
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 15\TotalSales\obj\Debug\netcoreapp2.0\TotalSales.pdb

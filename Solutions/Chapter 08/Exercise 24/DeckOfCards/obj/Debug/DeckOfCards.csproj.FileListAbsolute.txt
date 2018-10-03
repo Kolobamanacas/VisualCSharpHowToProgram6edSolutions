@@ -1,0 +1,6 @@
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 24\DeckOfCards\bin\Debug\DeckOfCards.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 24\DeckOfCards\bin\Debug\DeckOfCards.pdb
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 24\DeckOfCards\obj\Debug\DeckOfCards.csprojAssemblyReference.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 24\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 24\DeckOfCards\obj\Debug\DeckOfCards.exe
+C:\YandexDisk\Code\CSharp Deitel Challange\Chapter 08\Exercise 24\DeckOfCards\obj\Debug\DeckOfCards.pdb
